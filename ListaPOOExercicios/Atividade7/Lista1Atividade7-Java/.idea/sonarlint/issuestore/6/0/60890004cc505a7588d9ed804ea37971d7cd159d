@@ -1,0 +1,11 @@
+
+^
+java:S1643"Use a StringBuilder instead.(Äö¯p8ŒùÆû¢2J$6a91fa73-c697-4ec9-a342-4f774aa38158
+“
+java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8ùÆû¢2J$1c50609a-e781-4051-b728-0642fe48126c
+—
+java:S1104"TMake endereco a static final constant or non-public and provide accessors if needed.(ˆ¨ò·8ùÆû¢2J$b2d0c6d5-c72f-449a-ac0f-59cef158e1b0
+ª
+java:S1104"bMake professorescontratados a static final constant or non-public and provide accessors if needed.(öì…ğøÿÿÿÿ8ùÆû¢2J$da7fa78b-7de9-4ba8-bd6f-9ce9418cf0d2
+]
+java:S1220""Move this file to a named package.8ùÆû¢2J$2178a19f-66e6-4c03-87e5-3d1e8966ce7a
